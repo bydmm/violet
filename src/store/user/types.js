@@ -1,0 +1,5 @@
+export const USER_LOGIN = 'user/USER_LOGIN'
+export const USER_LOGOUT = 'user/USER_LOGOUT'
+export const CLEAR_USER = 'user/CLEAR_USER'
+export const CHECK_LOGIN = 'user/CHECK_LOGIN'
+export const CHANGE_USER = 'user/CHANGE_USER'
